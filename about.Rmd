@@ -9,13 +9,13 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![Me!](Profile photo.jpg)
-
 ## About Me
 
 Hello! I am Meredith Palmore, a second year MHS student in Genetic Epidemiology.  
 
-## Bakcground
+![DNA](DNA.jpg)
+
+## Background
 
 I graduated from the University of Virginia in 2020. At UVA, I studied Biology and Global Public Health. I conducted research in a laboratory where I used histology to visualize morphological changes in diseased coronary arteries. 
 
