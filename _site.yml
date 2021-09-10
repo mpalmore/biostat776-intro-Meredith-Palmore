@@ -1,0 +1,11 @@
+name: "biostat776-intro-Meredith-Palmore"
+
+navbar:
+
+  title: "Biostatistics 776 - Meredith Palmore"
+
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
